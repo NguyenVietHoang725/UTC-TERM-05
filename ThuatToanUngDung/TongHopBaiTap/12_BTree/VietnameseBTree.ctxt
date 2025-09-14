@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VietnameseBTree
+comment0.text=\r\n\ L\u1EDBp\ {@code\ VietnameseBTree}\ k\u1EBF\ th\u1EEBa\ t\u1EEB\ {@code\ BTree}\ \u0111\u1EC3\ l\u01B0u\ tr\u1EEF\ danh\ s\u00E1ch\ c\u00E1c\ c\u1EB7p\ t\u00EAn\ v\u00E0\ \u0111i\u1EC3m\ trung\ b\u00ECnh.\r\n\ S\u1EED\ d\u1EE5ng\ \u0111\u1EC3\ qu\u1EA3n\ l\u00FD\ danh\ s\u00E1ch\ 17\ b\u1EA1n\ v\u1EDBi\ t\u00EAn\ ti\u1EBFng\ Vi\u1EC7t\ v\u00E0\ \u0111i\u1EC3m\ ng\u1EABu\ nhi\u00EAn\ t\u1EEB\ 0.0\ \u0111\u1EBFn\ 10.0.\r\n\ K\u1EBF\ th\u1EEBa\ t\u1EA5t\ c\u1EA3\ c\u00E1c\ ph\u01B0\u01A1ng\ th\u1EE9c\ t\u1EEB\ {@code\ BTree}\ v\u00E0\ ch\u1EC9\ th\u00EAm\ logic\ \u0111\u1EC3\ kh\u1EDFi\ t\u1EA1o\ d\u1EEF\ li\u1EC7u.\r\n
+comment1.params=
+comment1.target=VietnameseBTree()
+comment1.text=\r\n\ Kh\u1EDFi\ t\u1EA1o\ m\u1ED9t\ B-Tree\ v\u00E0\ ch\u00E8n\ 17\ c\u1EB7p\ t\u00EAn-\u0111i\u1EC3m.\r\n
+comment2.params=
+comment2.target=void\ initialize()
+comment2.text=\r\n\ Kh\u1EDFi\ t\u1EA1o\ danh\ s\u00E1ch\ 17\ b\u1EA1n\ v\u1EDBi\ t\u00EAn\ v\u00E0\ \u0111i\u1EC3m\ ng\u1EABu\ nhi\u00EAn.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ \u0110\u01A1n\ v\u1ECB\ ki\u1EC3m\ tra\ cho\ {@code\ VietnameseBTree}.\r\n
+numComments=4

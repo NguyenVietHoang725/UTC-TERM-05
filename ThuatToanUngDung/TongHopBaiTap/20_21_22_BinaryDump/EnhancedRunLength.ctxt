@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EnhancedRunLength
+comment0.text=\r\n\ Simplified\ RunLength\ class\ for\ text\ file\ compression/decompression.\r\n\ Extends\ the\ original\ RunLength\ functionality\ to\ compress\ .txt\ files\ to\ .bin\r\n\ and\ decompress\ .bin\ files\ back\ to\ .txt\ using\ BinaryOut.\r\n\ \r\n\ Usage\:\r\n\ -\ java\ EnhancedRunLength\ -c\ input.txt\ output.bin\ \ \ \ (compress\ txt\ to\ bin)\r\n\ -\ java\ EnhancedRunLength\ -d\ input.bin\ output.txt\ \ \ \ (decompress\ bin\ to\ txt)\r\n\ \r\n\ @author\ Your\ Name\r\n
+comment1.params=
+comment1.target=EnhancedRunLength()
+comment2.params=inputTxtFile\ outputBinFile
+comment2.target=void\ compressTextToBinary(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Compresses\ a\ text\ file\ to\ binary\ format\ using\ run-length\ encoding.\r\n\ \r\n\ @param\ inputTxtFile\ \ path\ to\ the\ input\ .txt\ file\r\n\ @param\ outputBinFile\ path\ to\ the\ output\ .bin\ file\r\n
+comment3.params=inputBinFile\ outputTxtFile
+comment3.target=void\ decompressBinaryToText(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Decompresses\ a\ binary\ file\ back\ to\ text\ format.\r\n\ \r\n\ @param\ inputBinFile\ \ path\ to\ the\ input\ .bin\ file\r\n\ @param\ outputTxtFile\ path\ to\ the\ output\ .txt\ file\r\n
+comment4.params=filename
+comment4.target=long\ getFileSize(java.lang.String)
+comment4.text=\r\n\ Gets\ file\ size\ in\ bytes.\r\n\ \r\n\ @param\ filename\ path\ to\ the\ file\r\n\ @return\ file\ size\ in\ bytes\r\n
+comment5.params=inputTxtFile\ outputBinFile
+comment5.target=void\ compressWithStats(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Compresses\ text\ file\ with\ compression\ statistics.\r\n\ \r\n\ @param\ inputTxtFile\ \ path\ to\ the\ input\ .txt\ file\r\n\ @param\ outputBinFile\ path\ to\ the\ output\ .bin\ file\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Main\ method\ with\ simple\ command\ line\ interface.\r\n\ \r\n\ Usage\:\r\n\ java\ EnhancedRunLength\ -c\ input.txt\ output.bin\ \ \ \ (compress)\r\n\ java\ EnhancedRunLength\ -d\ input.bin\ output.txt\ \ \ \ (decompress)\r\n\ java\ EnhancedRunLength\ -cs\ input.txt\ output.bin\ \ \ (compress\ with\ stats)\r\n\ \r\n\ @param\ args\ the\ command-line\ arguments\r\n
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Quick3string
+comment0.text=\r\n\ \ Compilation\:\ \ javac\ Quick3string.java\r\n\ \ Execution\:\ \ \ \ java\ Quick3string\ <\ input.txt\r\n\ \ Dependencies\:\ StdIn.java\ StdOut.java\ StdRandom.java\ Alphabet.java\r\n\r\n\ \ Sorts\ an\ array\ of\ strings\ using\ 3-way\ radix\ quicksort\ with\ a\ specified\ alphabet.\r\n\r\n
+comment1.params=alphabet
+comment1.target=Quick3string(Alphabet)
+comment2.params=a
+comment2.target=void\ sort(java.lang.String[])
+comment2.text=\r\n\ Rearranges\ the\ array\ of\ strings\ in\ ascending\ order\ using\ the\ provided\ alphabet.\r\n\r\n\ @param\ a\ the\ array\ to\ be\ sorted\r\n
+comment3.params=s\ d
+comment3.target=int\ charAt(java.lang.String,\ int)
+comment4.params=a\ lo\ hi\ d
+comment4.target=void\ sort(java.lang.String[],\ int,\ int,\ int)
+comment5.params=a\ lo\ hi\ d
+comment5.target=void\ insertion(java.lang.String[],\ int,\ int,\ int)
+comment6.params=a\ i\ j
+comment6.target=void\ exch(java.lang.String[],\ int,\ int)
+comment7.params=v\ w\ d
+comment7.target=boolean\ less(java.lang.String,\ java.lang.String,\ int)
+comment8.params=a
+comment8.target=boolean\ isSorted(java.lang.String[])
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\r\n\ Reads\ in\ a\ sequence\ of\ strings\ from\ standard\ input;\r\n\ 3-way\ radix\ quicksorts\ them\ using\ the\ default\ ASCII\ alphabet;\r\n\ and\ prints\ them\ to\ standard\ output\ in\ ascending\ order.\r\n\r\n\ @param\ args\ the\ command-line\ arguments\r\n
+numComments=10

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestAlphabet
+comment0.text=\r\n\ Test\ Alphabet\ UNICODE16\ (65536)\ by\ using\ a\ short\ Vietnamese\ text.\r\n\r\n\ @author\:\ Nguyen\ Viet\ Hoang\r\n\ @version\:\ 17/08/2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

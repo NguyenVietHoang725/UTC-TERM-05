@@ -1,0 +1,10 @@
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\bin\Debug\Demo1.exe.config
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\bin\Debug\Demo1.exe
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\bin\Debug\Demo1.pdb
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.Form1.resources
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.exe
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\Buoi1\rsc\Demo1\obj\Debug\Demo1.pdb

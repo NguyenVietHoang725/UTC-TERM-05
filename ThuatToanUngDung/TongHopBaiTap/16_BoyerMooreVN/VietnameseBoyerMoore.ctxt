@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=VietnameseBoyerMoore
+comment0.text=\r\n\ \ Compilation\:\ \ javac\ VietnameseBoyerMoore.java\r\n\ \ Execution\:\ \ \ \ java\ VietnameseBoyerMoore\ pattern\ text\r\n\ \ Dependencies\:\ VietnameseAlphabet.java\ Alphabet.java\ StdOut.java\r\n\r\n\ \ A\ class\ that\ extends\ BoyerMoore\ to\ support\ string\ searching\ in\ Vietnamese\ text\r\n\ \ using\ the\ VietnameseAlphabet\ class.\ It\ uses\ the\ bad-character\ rule\ of\ the\r\n\ \ Boyer-Moore\ algorithm\ (does\ not\ implement\ the\ strong\ good\ suffix\ rule).\r\n\r\n\ \ Example\:\r\n\ \ %\ java\ VietnameseBoyerMoore\ "ch\u00E0o"\ "xin\ ch\u00E0o\ th\u1EBF\ gi\u1EDBi"\r\n\ \ text\:\ \ \ \ xin\ ch\u00E0o\ th\u1EBF\ gi\u1EDBi\r\n\ \ pattern\:\ \ \ \ \ ch\u00E0o\r\n\r\n
+comment1.params=pat
+comment1.target=VietnameseBoyerMoore(java.lang.String)
+comment1.text=\r\n\ Preprocesses\ the\ pattern\ string\ using\ the\ VietnameseAlphabet.\r\n\r\n\ @param\ pat\ the\ pattern\ string\r\n
+comment2.params=pattern\ alphabet
+comment2.target=VietnameseBoyerMoore(char[],\ Alphabet)
+comment2.text=\r\n\ Preprocesses\ the\ pattern\ string\ with\ a\ specified\ alphabet.\r\n\r\n\ @param\ pattern\ the\ pattern\ string\ as\ a\ character\ array\r\n\ @param\ alphabet\ the\ alphabet\ to\ use\ (e.g.,\ VietnameseAlphabet)\r\n
+comment3.params=
+comment3.target=void\ initialize()
+comment3.text=\r\n\ Initializes\ the\ bad-character\ skip\ array\ using\ the\ VietnameseAlphabet.\r\n
+comment4.params=txt
+comment4.target=int\ search(java.lang.String)
+comment4.text=\r\n\ Returns\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ in\ the\ text\ string\ using\ the\ VietnameseAlphabet.\r\n\r\n\ @param\ txt\ the\ text\ string\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ \ \ \ \ \ \ \ \ in\ the\ text\ string;\ n\ if\ no\ such\ match\r\n
+comment5.params=text
+comment5.target=int\ search(char[])
+comment5.text=\r\n\ Returns\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ in\ the\ text\ string\ using\ the\ VietnameseAlphabet.\r\n\r\n\ @param\ text\ the\ text\ string\ as\ a\ character\ array\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ \ \ \ \ \ \ \ \ in\ the\ text\ string;\ n\ if\ no\ such\ match\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Takes\ a\ pattern\ string\ and\ an\ input\ string\ as\ command-line\ arguments;\r\n\ searches\ for\ the\ pattern\ string\ in\ the\ text\ string;\ and\ prints\r\n\ the\ first\ occurrence\ of\ the\ pattern\ string\ in\ the\ text\ string.\r\n\r\n\ @param\ args\ the\ command-line\ arguments\r\n
+numComments=7

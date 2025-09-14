@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VietnameseRabinKarp
+comment1.params=pat
+comment1.target=VietnameseRabinKarp(java.lang.String)
+comment1.text=\r\n\ Preprocesses\ the\ pattern\ string\ using\ the\ VietnameseAlphabet.\r\n\r\n\ @param\ pat\ the\ pattern\ string\r\n
+comment2.params=pattern\ alphabet
+comment2.target=VietnameseRabinKarp(char[],\ Alphabet)
+comment2.text=\r\n\ Preprocesses\ the\ pattern\ string\ with\ a\ specified\ alphabet.\r\n\r\n\ @param\ pattern\ the\ pattern\ string\ as\ a\ character\ array\r\n\ @param\ alphabet\ the\ alphabet\ to\ use\ (e.g.,\ VietnameseAlphabet)\r\n
+comment3.params=key\ m
+comment3.target=long\ hash(java.lang.String,\ int)
+comment4.params=txt\ i
+comment4.target=boolean\ check(java.lang.String,\ int)
+comment5.params=txt
+comment5.target=int\ search(java.lang.String)
+comment5.text=\r\n\ Returns\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ in\ the\ text\ string\ using\ the\ VietnameseAlphabet.\r\n\r\n\ @param\ txt\ the\ text\ string\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\r\n\ \ \ \ \ \ \ \ \ in\ the\ text\ string;\ n\ if\ no\ such\ match\r\n
+comment6.params=
+comment6.target=long\ longRandomPrime()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ Takes\ a\ pattern\ string\ and\ an\ input\ string\ as\ command-line\ arguments;\r\n\ searches\ for\ the\ pattern\ string\ in\ the\ text\ string;\ and\ prints\r\n\ the\ first\ occurrence\ of\ the\ pattern\ string\ in\ the\ text\ string.\r\n\r\n\ @param\ args\ the\ command-line\ arguments\r\n
+numComments=8

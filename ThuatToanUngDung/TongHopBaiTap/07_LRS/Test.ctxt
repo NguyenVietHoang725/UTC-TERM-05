@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=substring
+comment2.target=boolean\ isLikelyFunction(java.lang.String)
+comment3.params=substring
+comment3.target=void\ suggestFunctionExtraction(java.lang.String)
+numComments=4

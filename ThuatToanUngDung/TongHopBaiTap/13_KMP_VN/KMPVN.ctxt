@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=KMPVN
+comment0.text=\r\n\ The\ {@code\ KMPVN}\ class\ extends\ {@code\ KMP}\ to\ support\ Vietnamese\ text\ using\ the\ {@code\ VietnameseAlphabet}.\r\n\ It\ maps\ characters\ to\ indices\ in\ the\ specified\ alphabet\ and\ performs\ the\ search\ on\ the\ indexed\ representation.\r\n
+comment1.params=pat
+comment1.target=KMPVN(java.lang.String)
+comment1.text=\r\n\ Preprocesses\ the\ pattern\ string\ using\ the\ default\ Vietnamese\ alphabet.\r\n\r\n\ @param\ pat\ the\ pattern\ string\r\n
+comment2.params=pat\ alphabet
+comment2.target=KMPVN(java.lang.String,\ Alphabet)
+comment2.text=\r\n\ Preprocesses\ the\ pattern\ string\ using\ the\ specified\ alphabet.\r\n\r\n\ @param\ pat\ the\ pattern\ string\r\n\ @param\ alphabet\ the\ alphabet\ to\ use\ for\ mapping\ characters\ to\ indices\r\n
+comment3.params=s\ alphabet
+comment3.target=char[]\ toIndexedCharArray(java.lang.String,\ Alphabet)
+comment3.text=\r\n\ Converts\ a\ string\ to\ a\ char\ array\ where\ each\ char\ represents\ the\ index\ in\ the\ alphabet.\r\n\ This\ allows\ using\ the\ superclass\ constructor\ that\ expects\ indices\ in\ 0\ to\ R-1.\r\n\r\n\ @param\ s\ the\ string\ to\ convert\r\n\ @param\ alphabet\ the\ alphabet\ for\ mapping\r\n\ @return\ the\ char\ array\ of\ indices\r\n
+comment4.params=txt
+comment4.target=int\ search(java.lang.String)
+comment4.text=\r\n\ Returns\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\ in\ the\ text\ string.\r\n\r\n\ @param\ txt\ the\ text\ string\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\ in\ the\ text\ string;\ N\ if\ no\ such\ match\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method\ for\ testing\ with\ a\ Vietnamese\ pattern\ and\ text.\r\n\ Example\:\ Pattern\ of\ length\ around\ 15\ characters.\r\n\r\n\ @param\ args\ command-line\ arguments\ (pattern\ and\ text)\r\n
+numComments=6

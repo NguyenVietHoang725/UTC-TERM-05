@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=KMPFile
+comment1.params=pat\ alphabet
+comment1.target=KMPFile(java.lang.String,\ Alphabet)
+comment1.text=\r\n\ Preprocesses\ the\ pattern\ string\ using\ the\ specified\ alphabet.\r\n\r\n\ @param\ pat\ the\ pattern\ string\ (approximately\ 30\ characters)\r\n\ @param\ alphabet\ the\ alphabet\ to\ use\ for\ mapping\ characters\ to\ indices\r\n
+comment2.params=s\ alphabet
+comment2.target=char[]\ toIndexedCharArray(java.lang.String,\ Alphabet)
+comment2.text=\r\n\ Converts\ a\ string\ to\ a\ char\ array\ where\ each\ char\ represents\ the\ index\ in\ the\ alphabet.\r\n\r\n\ @param\ s\ the\ string\ to\ convert\r\n\ @param\ alphabet\ the\ alphabet\ for\ mapping\r\n\ @return\ the\ char\ array\ of\ indices\r\n
+comment3.params=filePath
+comment3.target=java.lang.String\ readDocxFile(java.lang.String)
+comment3.text=\r\n\ Reads\ text\ from\ a\ .docx\ file.\r\n\r\n\ @param\ filePath\ the\ path\ to\ the\ .docx\ file\r\n\ @return\ the\ text\ content\ of\ the\ file\r\n\ @throws\ IOException\ if\ there\ is\ an\ error\ reading\ the\ file\r\n
+comment4.params=filePath
+comment4.target=int\ searchInFile(java.lang.String)
+comment4.text=\r\n\ Searches\ for\ the\ pattern\ in\ the\ text\ read\ from\ a\ .docx\ file.\r\n\r\n\ @param\ filePath\ the\ path\ to\ the\ .docx\ file\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ in\ the\ text;\ -1\ if\ not\ found\ or\ error\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method\ for\ testing\ with\ a\ Vietnamese\ pattern\ and\ a\ .docx\ file.\r\n\ Example\:\ Pattern\ of\ approximately\ 30\ characters.\r\n\r\n\ @param\ args\ command-line\ arguments\ (pattern\ and\ file\ path)\r\n
+numComments=6
