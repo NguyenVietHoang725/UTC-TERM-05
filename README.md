@@ -10,6 +10,8 @@ Mục tiêu: quản lý tài liệu gọn gàng, dễ tìm kiếm, thuận tiệ
 | STT | Học phần        | Giảng viên       | Thư mục                  |
 |-----|-----------------|-----------------|--------------------------|
 | 1   | Lập trình trực quan | Cao Thị Luyên | [`/LapTrinhTrucQuan`](./LapTrinhTrucQuan) |
-| 2   | [Tên học phần 2] | [Tên giảng viên] | [`/MonHoc2`](./MonHoc2) |
-| 3   | [Tên học phần 3] | [Tên giảng viên] | [`/MonHoc3`](./MonHoc3) |
+| 2   | Lập trình Web | Lại Mạnh Dũng | [`/LapTrinhWeb`](./LapTrinhWeb) |
+| 3   | Mạng máy tính | Nguyễn Lê Minh | [`/MangMayTinh`](./MangMayTinh) |
+| 4   | Thuật toán ứng dụng | Trần Văn Dũng | [`/ThuatToanUngDung`](./ThuatToanUngDung) |
+| 5   | Hệ quản trị CSDL SQL | Nguyễn Kim Sao | [`/HeQuanTriCSDL`](./HeQuanTriCSDL) |
 
