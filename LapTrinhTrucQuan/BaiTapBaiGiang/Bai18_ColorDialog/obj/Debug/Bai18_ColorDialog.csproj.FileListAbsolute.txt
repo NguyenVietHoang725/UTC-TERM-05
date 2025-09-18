@@ -8,3 +8,4 @@ E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\BaiTapBaiGiang\Bai18_ColorDialog\obj\D
 E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\BaiTapBaiGiang\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.CoreCompileInputs.cache
 E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\BaiTapBaiGiang\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.exe
 E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\BaiTapBaiGiang\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.pdb
+E:\00_UNIVERSITY\TERM_05\LapTrinhTrucQuan\BaiTapBaiGiang\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.exe.config

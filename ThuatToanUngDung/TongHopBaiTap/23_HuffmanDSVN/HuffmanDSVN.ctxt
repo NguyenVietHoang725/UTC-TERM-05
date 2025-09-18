@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HuffmanDSVN
+comment0.text=\r\n\ The\ {@code\ HuffmanDSVN}\ class\ extends\ {@code\ Huffman}\ to\ support\ compression\r\n\ and\ expansion\ of\ Vietnamese\ text\ (Unicode\ characters)\ using\ Huffman\ codes.\r\n\ It\ reads\ UTF-8\ encoded\ input,\ visualizes\ the\ Huffman\ trie,\ and\ handles\ 16-bit\r\n\ characters\ to\ support\ Vietnamese\ diacritics.\r\n
+comment1.params=inputFile\ outputFile
+comment1.target=void\ compress(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Compresses\ the\ input\ string\ from\ a\ UTF-8\ encoded\ file,\ builds\ and\ prints\r\n\ the\ Huffman\ trie,\ and\ writes\ the\ compressed\ binary\ to\ output\ file.\r\n
+comment2.params=inputFile\ outputFile
+comment2.target=void\ expand(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Expands\ a\ compressed\ binary\ input\ file,\ writing\ the\ decoded\ UTF-8\ string\r\n\ to\ the\ output\ file.\r\n
+comment3.params=freq
+comment3.target=int\ countUnique(int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ similar\ to\ Huffman's,\ with\ UTF-8\ input\ handling.\r\n
+numComments=5
